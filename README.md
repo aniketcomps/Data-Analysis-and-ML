@@ -1,1 +1,1 @@
-# Eduvance-Internship
+# Python notebooks description
