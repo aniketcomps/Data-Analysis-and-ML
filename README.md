@@ -1,1 +1,1 @@
-This repository contains notebooks that implement various Machine Learning algorithms
+Notebooks from my Summer Industrial Training and Internship that implement various Machine Learning algorithms
